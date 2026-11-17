@@ -1,0 +1,25 @@
+1. Idea and Inspiration
+
+My idea for this website was inspired by a YouTube channel called 'Dad, How Do I?' The creator started the channel to teach practical life skills to people who, like him, grew up without a father figure to guide them through adult responsibilities.
+
+While I find his videos genuinely useful, I also recognize that following video tutorials might be challenging for some people, particularly those with learning disabilities or different learning needs. This inspired me to create an interactive 3D version of these tutorials, allowing users to learn through hands-on experimentation rather than simply watching someone demonstrate a task.
+
+The idea is to give users a safe environment where they can learn through trial and error without facing real-life consequences, such as accidentally damaging their belongings.
+
+For this prototype, I decided to focus on doing laundry. The inspiration partly came from my own experience living with a roommate who, at the age of 21, still doesn't know how to wash her clothes. I figured a website like this could save both of us a lot of time and energy.
+
+2. Target Audience
+
+My target audience is primarily young people aged 16–23 who are beginning to navigate independence and adulthood. At this stage of life, many are moving away from home, living with roommates, or taking on household responsibilities for the first time.
+
+The website aims to make learning essential life skills less intimidating by allowing users to practise at their own pace, make mistakes, and understand the consequences of their decisions without the pressure of getting everything right on their first attempt.
+
+3. Technical Exploration
+
+For this project, I experimented with Three.js to create an interactive 3D laundry room, including first-person camera navigation, object manipulation, and animated interactions. I also explored JavaScript-based decision-making, conditional feedback, and different interaction methods to make the experience feel more like a hands-on simulation than a conventional instructional website.
+
+4. Future Improvements
+
+If I had more time to develop this website, I would expand it into a collection of interactive tutorials covering other essential life skills, such as doing taxes, managing household chores, and maintaining personal hygiene.
+
+My long-term goal would be to create a platform where people can learn the practical skills they were never taught growing up, regardless of their age or background.
